@@ -2,6 +2,10 @@
 
 MCP servers for STACKIT — letting Claude and other AI assistants work with STACKIT cloud services directly from the conversation.
 
+## Status and handover
+
+As of 15 Oct 2026 there is no active maintainer. The repository is archived (read-only); Dependabot and the CI workflows are disabled. It was moved from a personal GitHub account to `btc-eai`.
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 [![Node.js](https://img.shields.io/badge/Node.js-%E2%89%A518-green?style=flat-square&logo=node.js)](https://nodejs.org)
 
